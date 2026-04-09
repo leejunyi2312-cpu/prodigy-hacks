@@ -1,3 +1,3 @@
 # prodigy-hacks
-Execute The First Code using this in a bookmarklet: javascript:(function(){function w(){if(typeof Boot!=='undefined'){var s=document.createElement('script');s.src='https://raw.githubusercontent.com/leejunyi2312-cpu/prodigy-hacks/refs/heads/main/prodigy-hack-menu.js';document.head.appendChild(s);}else{setTimeout(w,200);}}w();})();
-Use the second code as a bookmarklet, on prodigy, most hacks work in lamplight town... 
+Execute The First Code in a bookmarklet or console
+Use the second code as a bookmarklet, on prodigy, most hacks work in lamplight town... (like edit hacks )
